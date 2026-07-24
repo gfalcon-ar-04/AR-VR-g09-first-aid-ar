@@ -31,7 +31,7 @@ El proyecto aborda el problema crítico del olvido o ejecución incorrecta de ma
 | Retamozo Llamacponcca, Miguel Angel | 2221896924 | Líder del proyecto / Desarrollador Unity |
 | Falcón Arones, Gabriel Adrián | 2221896310 | Desarrollador AR/VR / Animación IK |
 | Nuñez Cordova, Erick Ernesto | 2191891564 | Diseñador UX/3D / Assets |
-| Estrada Gutierrez, Yohel Alexander | | QA / Documentación / Pruebas |
+| Estrada Gutierrez, Yohel Alexander | 2181894796 | QA / Documentación / Pruebas |
 
 ---
 
