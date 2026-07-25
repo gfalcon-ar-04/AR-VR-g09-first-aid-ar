@@ -28,10 +28,10 @@ El proyecto aborda el problema crítico del olvido o ejecución incorrecta de ma
 
 | Nombre | Código | Rol |
 |--------|--------|-----|
-| Retamozo Llamacponcca, Miguel Angel | 2221896924 | Líder del proyecto / Desarrollador Unity |
-| Falcón Arones, Gabriel Adrián | 2221896310 | Documentación |
-| Nuñez Cordova, Erick Ernesto | 2191891564 | Documentación |
-| Estrada Gutierrez, Yohel Alexander | 2181894796 | Documentación |
+| Retamozo Llamacponcca, Miguel Angel (100%) | 2221896924 | Líder del proyecto / Desarrollador Unity |
+| Falcón Arones, Gabriel Adrián (100%) | 2221896310 | Documentación |
+| Nuñez Cordova, Erick Ernesto (85%) | 2191891564 | Documentación |
+| Estrada Gutierrez, Yohel Alexander (85%) | 2181894796 | Documentación |
 
 ---
 
