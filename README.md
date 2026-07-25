@@ -29,9 +29,9 @@ El proyecto aborda el problema crítico del olvido o ejecución incorrecta de ma
 | Nombre | Código | Rol |
 |--------|--------|-----|
 | Retamozo Llamacponcca, Miguel Angel | 2221896924 | Líder del proyecto / Desarrollador Unity |
-| Falcón Arones, Gabriel Adrián | 2221896310 | Desarrollador AR/VR / Animación IK |
-| Nuñez Cordova, Erick Ernesto | 2191891564 | Diseñador UX/3D / Assets |
-| Estrada Gutierrez, Yohel Alexander | 2181894796 | QA / Documentación / Pruebas |
+| Falcón Arones, Gabriel Adrián | 2221896310 | Documentación |
+| Nuñez Cordova, Erick Ernesto | 2191891564 | Documentación |
+| Estrada Gutierrez, Yohel Alexander | 2181894796 | Documentación |
 
 ---
 
@@ -40,11 +40,6 @@ El proyecto aborda el problema crítico del olvido o ejecución incorrecta de ma
 - Reconocimiento de imágenes: Detecta tarjetas/pósters mediante Vuforia para activar el protocolo de RCP.
 - Instrucciones paso a paso: Muestra secuencias textuales con los pasos correctos de RCP (verificar respuesta, pedir ayuda, inclinar cabeza, compresiones).
 - Audio explicativo: Reproduce instrucciones de voz para cada paso, guiando al usuario sin necesidad de leer.
-- Temporizador: Cuenta el tiempo transcurrido desde el inicio de la sesión.
-- Temporizador de compresiones: Indica el ritmo correcto (100-120 compresiones por minuto) durante la RCP.
-- Retroalimentación visual: Cambios de color y checkmarks al completar cada paso.
-- Menú de pausa: Permite pausar, reiniciar o volver al menú principal.
-- Teletransporte: Botón que lleva al jugador directamente al lado del paciente.
 - Animación IK (Inverse Kinematics): El brazo del personaje se mueve automáticamente al pecho del paciente durante la RCP.
 
 ---
@@ -139,26 +134,6 @@ rva-g09-first-aid-ar/
 ├── ProjectSettings/         <- Configuración del proyecto
 ├── .gitignore               <- Excluye archivos temporales de Unity
 └── README.md                <- Este archivo
-
-Capturas de Pantalla
-
-Agregar imágenes aquí (ejemplo del marcador, vista AR, menú de pausa, etc.)
-
-Menú Principal	Vista AR - RCP	Menú de Pausa
-
-[Imagen]	[Imagen]	[Imagen]
-
-Video Demo
-
-Enlace al video demo en YouTube o Drive
-
-Documentación Adicional
-
-Informe Final del Proyecto
-
-Arquitectura Técnica
-
-Pruebas de Usabilidad
 
 Tecnologías Utilizadas
 Tecnologia	Version	Uso
