@@ -113,7 +113,7 @@ S13-S14	Exportación a Android, pruebas en dispositivo	Completado
 S15-S16	Proyecto final + presentación	Completado
 
 Estructura del Repositorio
-
+```
 rva-g09-first-aid-ar/
 ├── Assets/
 │   ├── _Project/
@@ -134,7 +134,7 @@ rva-g09-first-aid-ar/
 ├── ProjectSettings/         <- Configuración del proyecto
 ├── .gitignore               <- Excluye archivos temporales de Unity
 └── README.md                <- Este archivo
-
+```
 Tecnologías Utilizadas
 Tecnologia	Version	Uso
 Unity	2022.3.62f1 LTS	Motor de juego y desarrollo
